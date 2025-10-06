@@ -1,0 +1,41 @@
+- name: "Abhishek Rao"
+  dob: "01-01-01"
+  age: 30
+  addresses:
+    #object
+  - door no: 83-98
+    street: "Gandi nagar"
+    city: Hyderabad
+    pin: 583900
+    type: current
+
+  - door no: 83-98
+    street: "Gandi nagar"
+    city: Hyderabad
+    pin: 583900
+    type: perm
+  Skills:
+  - java
+  - devops
+  - cloud
+
+- name: "bittu"
+  dob: "01-01-01"
+  age: 30
+  addresses:
+    #object
+  - door no: 83-98
+    street: "Gandi nagar"
+    city: Hyderabad
+    pin: 583900
+    type: current
+
+  - door no: 83-98
+    street: "Gandi nagar"
+    city: Hyderabad
+    pin: 583900
+    type: perm
+  Skills:
+  - java
+  - devops
+  - cloud
